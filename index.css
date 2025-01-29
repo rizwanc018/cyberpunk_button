@@ -89,7 +89,7 @@ body {
     box-shadow: 0 0 0 4px var(--shadow-primary);
     text-shadow: 2px 2px var(--shadow-primary), -2px -2px var(--shadow-secondary);
     clip-path: var(--clip);
-    transform: translate(0, 100%);
+    transform: translate(0,5%);
     animation: glitch 2s infinite;
 
 }
